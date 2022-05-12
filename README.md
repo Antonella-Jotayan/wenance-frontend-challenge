@@ -1,46 +1,42 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Star Wars React SPA with Redux
 
-In the project directory, you can run:
+This is a React app in which you will be able to see some Star Wars character´s name, gender and Birthday. You will also be able to filter them by the text endered in the search bar.
 
-### `yarn start`
 
-Runs the app in the development mode.\
+## Getting Started 🚀
+
+Clone the project in your computer.
+
+
+### Prerequisites 📋
+
+Have a package manager such as npm or yarn intalled in your computer.
+
+### Installation 🔧
+
+Run "yarn" in the root of the project
+
+Now you will be able to initialize the project with "yarn start" 
+
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
+## Developed using 🛠️
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* [React](https://es.reactjs.org)
+* [Redux Toolkit](https://redux-toolkit.js.org/)
+* [TypeScript](https://www.typescriptlang.org/)
+* [Tailwind CSS](https://tailwindcss.com/)
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Author ✒️
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+*Antonella Jotayan*
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Demo Screenshots
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+|Desktop|Ipad|Mobile|
+|---|---|---|
+|<img width="800" alt="Screen Shot 2022-01-26 at 00 22 40" src="https://user-images.githubusercontent.com/78166670/168142988-8ed4a32d-1da5-4c8c-be8c-d08e7d545329.png">|<img width="500" alt="Screen Shot 2022-01-26 at 00 22 45" src="https://user-images.githubusercontent.com/78166670/168143128-e2808675-8af2-49cf-8c90-0e422e785d1f.png">|<img width="300" alt="Screen Shot 2022-01-26 at 00 22 50" src="https://user-images.githubusercontent.com/78166670/168143240-5a04dcdc-2ead-4f49-aa60-bd743ac2e388.png">|
